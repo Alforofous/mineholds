@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\david\Workspace\mineholds\libraries\glfw-3.3.8\build\CMakeFiles\25f271524f58fb5bab21191a2d833f26\uninstall.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\david\Workspace\mineholds\libraries\glfw-3.3.8\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\david\Workspace\mineholds\libraries\glfw-3.3.8\build\CMakeFiles\uninstall" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{11BA3F54-D51C-387A-8660-B16EE9A5F60D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
